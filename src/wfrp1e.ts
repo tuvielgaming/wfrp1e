@@ -1,5 +1,5 @@
-import { WFRPActor } from "./documents/actor";
-import { WFRPItem } from "./documents/item";
+import { WFRPActor } from "./actor";
+import { WFRPItem } from "./item";
 
 
 Hooks.once(
