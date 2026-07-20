@@ -1,0 +1,27 @@
+{
+    "id": "wfrp1e",
+
+    "title": "Warhammer Fantasy Roleplay 1e",
+
+    "description": "WFRP 1st Edition system for Foundry VTT",
+
+    "version": "0.1.0",
+
+    "compatibility": {
+
+        "minimum": "14",
+
+        "verified": "14"
+
+    },
+
+    "authors": [
+        {
+            "name": "Your Name"
+        }
+    ],
+
+    "esmodules": [
+        "wfrp1e.js"
+    ]
+}
