@@ -7,4 +7,4 @@ Hooks.once(
         );
 
     }
-);git add .
+);
